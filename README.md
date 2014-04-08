@@ -1,20 +1,25 @@
 android.class
 =============
 
-Curso de Android
-
 Módulo I
 
-1. Apresentação . TI Eventos
-2. Arquitetura . Ferramentas de Desenvolvimento
-3. AndroidManifest.xml
-4. Activity
-5. Adapters
-6. AsyncTasks
-7. Layout
+Apresentação do curso
+Arquitetura, Ferramentas e SDK
+Ambiente de desenvolvimento
+AndroidManifest
+Testes no dispositivo
+Activity e Intents (básico)
+Adapters
+AsyncTask e Handlers (Threads)
+Layout
+Primeira App
 
-Módulo II
+<p>Módulo II</p>
 
-1. Conectividade
-2. Persistência de dados
-(...to be continue)
+Conectividade
+Persistência de dados (SQLite)
+Notificações
+Intents (Agenda e Maps)
+Sensores
+Publicação no google play
+Outras API's
