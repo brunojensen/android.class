@@ -1,21 +1,20 @@
-package android.class1;
+package hello.world;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 
-public class MyFirstActivity extends Activity {
+public class HelloWorld extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_my_first);
+        setContentView(R.layout.hello_world);
     }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.activity_my_first, menu);
+        getMenuInflater().inflate(R.menu.hello_world, menu);
         return true;
     }
     
